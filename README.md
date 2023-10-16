@@ -20,7 +20,7 @@ Criar um sistema que permita o gerenciamento de eventos organizados por categori
 ## Realização
 
 <b>PROBLEMAS</b>
-* Tivemos um pouco de difculdade em ultilizar o Hashing em Python, já que ele foi criada em C.
+* Tivemos um pouco de difculdade em ultilizar o Hashing em Python, já que ele foi criado em C.
 * De inicio, fizemos o projeto utilizando funções prontas (code.py), em seguida, adaptamos criando nossas prórpias funções (main.py).
 
 <b>COMENTÁRIOS:</b>
